@@ -33,7 +33,7 @@
        "required": true
     },
     "PACK_NAME": {
-      "value": "EMMY HENZ",
+      "value": "MICKEYRICHIE 😎",
       "description": "Sticker Package Name",
        "required": false
     },
@@ -48,7 +48,7 @@
        "required": true
     },
     "PREMIUM_NUMBER": {
-      "value": "2349125042727",
+      "value": "2349066862063",
       "description": "Premium User IDs (comma-separated)",
       "required": true
     },
