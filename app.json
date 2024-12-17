@@ -23,12 +23,12 @@
        "required": true 
     },
     "OWNER_NUMBER": {
-      "value": "2349125042727",
+      "value": "2349066862063",
       "description": "Owner Number",
        "required": true
     },
     "OWNER_NAME": {
-      "value": "EMMY HENZ",
+      "value": "MICKEYRICHIE 😎",
       "description": "Owner Name",
        "required": true
     },
@@ -38,7 +38,7 @@
        "required": false
     },
     "AUTHOR_NAME": {
-      "value": "EMMY HENZ",
+      "value": "MICKEYRICHIE 😎",
       "description": "Sticker Author Name",
        "required": false
     },
